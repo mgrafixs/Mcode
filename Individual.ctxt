@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Individual
+comment1.params=
+comment1.target=Individual()
+comment2.params=
+comment2.target=void\ random()
+comment3.params=
+comment3.target=java.lang.String\ gen()
+comment4.params=
+comment4.target=int\ fitness()
+comment5.params=o
+comment5.target=int\ compareTo(Individual)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
